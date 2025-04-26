@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">Hola, soy tu asistente virtual. Por favor, haz tu pregunta después del tono.</Say>
+  <Record
+    action="https://hook.us2.make.com/fwok4i5xsweir4tmi1vqwg2wl2er5tm2"
+    method="POST"
+    maxLength="15"
+    transcribe="false"
+    playBeep="true"
+  />
+</Response>
